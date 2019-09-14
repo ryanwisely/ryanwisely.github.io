@@ -1,15 +1,24 @@
-body {
+header{
+  background-color:#E2EEC2;
+}
+
+.container {
   background-color: #FFF0CE;
+}
+
+body {
+  background-color:#FFF0CE;
 	height: 100%;
 	margin: 0;
 	text-align: center;
 	width: 100%;
-
-
 }
+
+
 .col-sm-4 {
   padding: 20px;
 }
+
 body header {
 	font-size: 20px;
   font-family: 'Cardo', serif;
@@ -24,5 +33,5 @@ body header {
 
 p {
   font-family: 'Tajawal', sans-serif;
-  font-size: 2rem;
+  font-size: 19px;
 }
